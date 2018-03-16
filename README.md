@@ -1,3 +1,1 @@
-this is a description for tester project
-	tester
-	lidysun
+Scrapy爬取麦子学院全网视频教程并保存本地
